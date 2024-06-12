@@ -7,4 +7,6 @@ ruby
 go 
 html
 css
+shell
+bash
 
